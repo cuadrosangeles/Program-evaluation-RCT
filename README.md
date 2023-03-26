@@ -1,6 +1,6 @@
 # Program evaluation sample  using an RCT
 
-This repository shows a coding sample to clean and analyze data regarding a Randomized Controlled Trial (RCT) deployed in Ghana. Please open the "PDFs" file to access the complete coding job and analytics.
+This repository shows a coding sample cleaning and analyzing data regarding a Randomized Controlled Trial (RCT) deployed in Ghana. Please open the "PDFs" file to access the complete coding job and analytics.
 
 + This RCT wants to provide critical insights regarding the effects of receiving group therapy to alleviate symptoms of depression in Ghana. 
 + A mental health local organization featured the intervention. They provided treated households with three-month services for free. After the intervention was finalized, data was collected but had imperfections. I cleaned it to provide proper analysis.  
